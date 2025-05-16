@@ -1,0 +1,23 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: rgb(177,177,299);
+    color: black;
+}
+header logo{
+    width: 100px;
+}
+header logo img{
+    width: 100px;
+    height: auto;
+}
+header college name{
+    text-align: center;
+    flex-grow: 1;
+}
+header college name{
+    font-size: 25px;
+    font-weight: bold;
+}
